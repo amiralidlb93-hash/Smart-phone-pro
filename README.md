@@ -6,7 +6,7 @@ It includes a lock screen, home screen and many working apps: Phone, Messages, C
 
 ## 🌐 Live Demo
 
-👉 **https://USERNAME.github.io/phone-simulator/**
+👉 **https://amiralidlb93-hash.github.io/Smart-phone-pro//**
 
 ## Project Structure
 
