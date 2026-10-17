@@ -1,0 +1,7 @@
+/* Smartphone Simulator Pro — project-level styles */
+:root { color-scheme: dark; }
+html, body, #root { min-height: 100%; margin: 0; }
+body { min-width: 320px; background: #0a0614; -webkit-tap-highlight-color: transparent; }
+button, input, textarea, select { font: inherit; }
+button { touch-action: manipulation; }
+* { box-sizing: border-box; }
